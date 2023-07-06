@@ -1,0 +1,31 @@
+#######################################
+# Classes, datatypes (KEYWORD1)
+#######################################
+
+Button	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+SetDebounceDuration	KEYWORD2
+SetMultipleClickDetectedInterval	KEYWORD2
+SetLongPressDetectedInterval	KEYWORD2
+SetOnButtonDown	KEYWORD2
+SetOnButtonUp	KEYWORD2
+SetOnClick	KEYWORD2
+SetOnLongPressBegin	KEYWORD2
+SetOnDuringLongPress	KEYWORD2
+SetOnDuringLongPress	KEYWORD2
+Tick	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+OnButtonDown	LITERAL1
+OnButtonUp	LITERAL1
+OnClick	LITERAL1
+OnLongPressBegin	LITERAL1
+OnDuringLongPress	LITERAL1
+OnLongPressEnd	LITERAL1
